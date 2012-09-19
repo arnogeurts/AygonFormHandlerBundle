@@ -17,5 +17,6 @@
     "autoload": {
         "psr-0" : { "Aygon\\FormHandlerBundle" : "" }
     },
+    "target-dir": "Aygon/FormHandlerBundle",
     "minimum-stability": "dev"
 }
