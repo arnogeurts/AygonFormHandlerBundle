@@ -1,0 +1,21 @@
+{
+    "name": "aygon/form-handler-bundle",
+    "type": "symfony-bundle",
+    "description": "Adds form handler functionality to the Symfony2 Form Component",
+    "keywords": ["form", "handling", "symfony"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arno Geurts",
+            "email": "arno.geurts@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/symfony": "2.1.*",
+    },
+    "autoload": {
+        "psr-0" : { "Aygon\\FormHandlerBundle" : "" }
+    },
+    "minimum-stability": "dev"
+}
